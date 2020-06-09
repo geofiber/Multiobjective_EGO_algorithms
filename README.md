@@ -1,4 +1,4 @@
-## The standard, constrained and parallel multiobjective EGO algorithm
+## The standard, constrained and parallel multiobjective EGO algorithms
 
 ### 1. The unconstrained multiobjective EGO algorithm 
 *The unconstrained multiobjective EGO algorithm* using EIM (expected improvement matrix) criteria, which is significant cheaper to evaluate than the state-of-the-art multiobjective EI criteria. For detailed description about the EIM criteria, please refer to [1].
